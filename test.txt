@@ -1,0 +1,8 @@
+ctrl + s # save command
+ctrl + z # undo command
+ctrl + a # highlights all
+new-item test.tst # create file in powershell
+
+# steps
+untracked file -- add -- commit -- push
+git commit --help
